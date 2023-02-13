@@ -1,0 +1,22 @@
+{
+  "description": "This NFT proves I've deployed an ERC721 Smart Contract on Goerli.", 
+  "external_url": "https://alchemy.com", 
+  "image": "https://ipfs.filebase.io/ipfs/QmNdjyujpi7TdnVipwvDVhWSgPsaPLRhs7u1bqMSgSNgJR", 
+  "name": "ERC721 PoK",
+  "attributes": [ 
+    {
+        "trait-type" : "Creater",
+        "value" : "Mr. King"
+    },
+
+    {
+        "trait-type" : "Coolness",
+        "value" : "Very"
+    },
+
+    {
+        "trait-type" : "Token Standard",
+        "value" : "ERC721"
+    }
+   ]
+}
